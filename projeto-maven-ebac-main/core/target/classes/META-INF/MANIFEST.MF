@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: halla
+Build-Jdk: 22.0.1
+Class-Path: lib/postgresql-42.7.1.jar lib/checker-qual-3.41.0.jar lib/my
+ sql-connector-j-8.0.33.jar lib/protobuf-java-3.21.9.jar
+Main-Class: Alan.App
+Created-By: Maven Integration for Eclipse
+
